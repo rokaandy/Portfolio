@@ -1,7 +1,7 @@
 h1 {
   color: lightseagreen;
   font-family: serif;
-  border: 4px solid orange;
+  font-size: 40px;
 }
 
 .sidebar {
@@ -17,7 +17,7 @@ h1 {
 
 .cloud {
   font-style: italic;
-  font-size: 20px;
+  font-size: 15px;
   color: blue;
 }
 
